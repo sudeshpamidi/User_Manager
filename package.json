@@ -1,0 +1,26 @@
+{
+    "name": "user_manager",
+    "version": "1.0.0",
+    "description": "user management project",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "dev": "nodemon --inspect app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sudeshpamidi/User_Manager.git"
+    },
+    "author": "Sudesh Pamidi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sudeshpamidi/User_Manager/issues"
+    },
+    "homepage": "https://github.com/sudeshpamidi/User_Manager#readme",
+    "dependencies": {
+        "logger": "0.0.1",
+        "nodemon": "^1.19.2",
+        "yargs": "^14.0.0"
+    }
+}

@@ -1,0 +1,18 @@
+
+info [Tue Sep 10 2019 11:15:52 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - user: undefined, email: undefined. 
+
+info [Tue Sep 10 2019 11:25:22 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - user: FooBar, email: email@email.com. 
+
+info [Tue Sep 10 2019 11:48:12 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - No users found
+
+info [Tue Sep 10 2019 11:49:37 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - Users :FooBar, email@email.com ;
+
+info [Tue Sep 10 2019 12:05:09 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User : FooBar deleted
+
+info [Tue Sep 10 2019 12:05:32 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - 
+
+info [Tue Sep 10 2019 12:06:07 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User Updated: undefined undefined.
+
+info [Tue Sep 10 2019 12:06:51 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User Updated: FooBar 123@email.com.
+
+info [Tue Sep 10 2019 12:07:17 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - 
